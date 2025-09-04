@@ -115,7 +115,4 @@ npm run dev
 * **Database**: MongoDB + Mongoose
 * **Auth**: JWT (JSON Web Tokens)
 
----
 
-👉 Do you want me to also **write a `.gitignore` file** so that when you upload manually to GitHub, it ignores `node_modules/`, `uploads/`, and `.env` automatically?
-```
